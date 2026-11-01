@@ -1,6 +1,6 @@
-# Deutsches Sprachpaket für Config Studio 🇩🇪
+﻿# Deutsches Sprachpaket für Config Studio 🇩🇪
 
-Offizielles Sprachpaket für die vollständige deutsche Lokalisierung von [Config Studio](https://github.com/EdvardBaldanov/config-studio).
+Offizielles Sprachpaket für die vollständige deutsche Lokalisierung von [Config Studio](https://github.com/config-studio/config-studio).
 
 ## 🚀 Funktionen
 - Vollständige Übersetzung der Config Studio Benutzeroberfläche ins Deutsche (Einstellungen, Datei-Explorer, Monaco-Editor, Audit-Protokoll, Sicherheitsdialoge und Symbolleiste).
@@ -11,7 +11,7 @@ Offizielles Sprachpaket für die vollständige deutsche Lokalisierung von [Confi
 In Config Studio öffnen Sie **Einstellungen (⚙️) → Erweiterungen**:
 1. Über GitHub-Link installieren:
    ```
-   https://github.com/EdvardBaldanov/config-studio-lang-de
+   https://github.com/config-studio/config-studio-lang-de
    ```
 2. Oder das `.cspkg`-Paket aus den Releases herunterladen und per Drag & Drop installieren.
 
