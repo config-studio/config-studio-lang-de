@@ -3,3 +3,7 @@
 dist/
 node_modules/
 .DS_Store
+
+# doubled-graph
+.doubled-graph/logs/
+.doubled-graph/cache/
