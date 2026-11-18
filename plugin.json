@@ -75,5 +75,6 @@
       "name": "Deutsches Sprachpaket",
       "description": "Vollständige deutsche Benutzeroberfläche für Config Studio"
     }
-  }
+  },
+  "minAppVersion": "2.3.6"
 }
